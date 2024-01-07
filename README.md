@@ -3,12 +3,12 @@ Notes Related to AWS_Incident_Response
 
 [AWS Incident Response](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
 
-### AWS and Cloud Essentials
- • Introduction to Cloud Computing
- • Shared Security Responsibility model
- • Cloud Computing Basics
- • Creating AWS Account
- • Incident Response in Cloud
+### | AWS and Cloud Essentials |
+  | Introduction to Cloud Computing |
+  | Shared Security Responsibility model |
+  | Cloud Computing Basics |
+  | Creating AWS Account |
+  | Incident Response in Cloud |
 
  ### Types of EC2
  # Amazon EC2 Instance Types Overview
