@@ -18,27 +18,27 @@ Amazon EC2 provides a diverse range of instance types, each optimized to meet sp
 1. **General Purpose Instances:**
    - *Description:* Balanced compute, memory, and networking resources.
    - *Use Cases:* Web servers, app servers, and small to medium databases.
-   - *Sources:* [AWS - General Purpose Instances](https://aws.amazon.com/ec2/instance-types/general-purpose/)[[1](https://aws.amazon.com/ec2/instance-types/)
+   - *Sources:* [AWS - General Purpose Instances](https://aws.amazon.com/ec2/instance-types/general-purpose/)
 
 2. **Compute Optimized Instances:**
    - *Description:* High-performance processors, ideal for compute-bound applications.
    - *Use Cases:* Compute-bound applications, gaming servers, and scientific modeling.
-   - *Sources:* [AWS - Compute Optimized Instances](https://aws.amazon.com/ec2/instance-types/compute-optimized/)[[1](https://aws.amazon.com/ec2/instance-types/)
+   - *Sources:* [AWS - Compute Optimized Instances](https://aws.amazon.com/ec2/instance-types/compute-optimized/)
 
 3. **Memory Optimized Instances:**
    - *Description:* High memory-to-CPU ratio, suitable for memory-intensive applications.
    - *Use Cases:* In-memory databases, real-time big data analytics, and large-scale SAP HANA.
-   - *Sources:* [AWS - Memory Optimized Instances](https://aws.amazon.com/ec2/instance-types/memory-optimized/)[[1](https://aws.amazon.com/ec2/instance-types/)
+   - *Sources:* [AWS - Memory Optimized Instances](https://aws.amazon.com/ec2/instance-types/memory-optimized/)
 
 4. **Accelerated Computing Instances:**
    - *Description:* Hardware accelerators or co-processors to perform functions such as graphics processing (GPU) or floating-point number calculations (FPGA).
    - *Use Cases:* Machine learning, graphics processing, and data compression.
-   - *Sources:* [AWS - Accelerated Computing Instances](https://aws.amazon.com/ec2/instance-types/accelerated-computing/)[[1](https://aws.amazon.com/ec2/instance-types/)
+   - *Sources:* [AWS - Accelerated Computing Instances](https://aws.amazon.com/ec2/instance-types/accelerated-computing/)
 
 5. **Storage Optimized Instances:**
    - *Description:* High, low-latency storage capacity.
    - *Use Cases:* NoSQL databases, data warehousing, and distributed file systems.
-   - *Sources:* [AWS - Storage Optimized Instances](https://aws.amazon.com/ec2/instance-types/storage-optimized/)[[1](https://aws.amazon.com/ec2/instance-types/)
+   - *Sources:* [AWS - Storage Optimized Instances](https://aws.amazon.com/ec2/instance-types/storage-optimized/)
 
 This classification allows users to choose instances tailored to their specific workload requirements, ensuring optimal performance and cost-effectiveness.
 
