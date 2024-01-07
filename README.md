@@ -30,6 +30,9 @@ Feel free to explore each topic to gain a comprehensive understanding of cloud c
 
 This classification allows users to choose instances tailored to their specific workload requirements, ensuring optimal performance and cost-effectiveness.
 
+![ec2-instance-types-in-aws](https://github.com/mandikgoyal/AWS_Incident_Response/assets/37402196/516cd35d-3857-4292-9915-bbbe08a6f34a)
+
+
 ## 🌐 Sources
 1. [Amazon EC2 Instance Types - AWS](https://aws.amazon.com/ec2/instance-types/)
 2. [Amazon EC2 Instance Types - Documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html)
